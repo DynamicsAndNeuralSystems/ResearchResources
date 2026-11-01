@@ -29,15 +29,14 @@ A good supervisor will dedicate themselves to training their students to be the 
 
 A major reason why PhDs are difficult is that the skills that make a successful researcher are quite different to what make a good undergraduate student. For example:
 
-* A PhD is about building independence research skills that train you into being someone that others can trust for reliable, thoughtful, and carefully considered information.
+* A PhD is about building independent research skills that train you into being someone that others can trust for reliable, thoughtful, and carefully considered information.
   * You can see the University of Sydney's list of PhD qualities [here](https://www.sydney.edu.au/students/graduate-qualities/phd-qualities.html).
 * In this pursuit, speed is far less important than accuracy: it's much better to think slowly and carefully than to be wrong.
-* It can be a terrifying transition to be primarily responsible for what you produce. Luckily you will have a supervisor and research team to support you, you have three years of practice, and with the right support, can bring a deeper depth of understanding and confidence.
+* It can be a terrifying transition to be primarily responsible for what you produce. Luckily you will have a supervisor and research team to support you, you have three years of practice, and with the right support, can build a deeper understanding and confidence.
 
 Here is some useful material on the challenges of research life:
 
-* [Importance of learning to be comfortable feeling stupid](https://doi.org/10.1242/jcs.033340).
-* [Importance of seeking out opportunities to feel stupid](http://jcs.biologists.org/content/121/11/1771).
+* [The importance of stupidity in scientific research](https://doi.org/10.1242/jcs.033340): learning to be comfortable feeling stupid, and seeking out opportunities to feel that way.
 * A reminder that [research requires different skills than you are taught in undergrad](http://jxyzabc.blogspot.com.au/2017/09/the-genius-fallacy.html).
 * Some advice for [being a scientist](https://doi.org/10.3945/an.114.007179).
 * A nice analysis of acknowledgements sections of PhD theses at ANU gives an insight into different student experiences of doing a PhD: [https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements).

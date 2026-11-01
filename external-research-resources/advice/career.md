@@ -9,7 +9,7 @@ metaLinks:
 ### Looking for jobs
 
 * Job postings at [jobRxiv](https://jobrxiv.org).
-* Computational neuroscience mailing list has good ones: [here](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro).
+* Computational neuroscience mailing list has good ones: [here](https://www.cnsorg.org/comp-neuro-mailing-list).
 * Massive list of neuro postdocs is from [JHU](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/).
 * [NeuroEng Australia](https://neuroeng.asn.au/) also has a mailing list and job postings for the Australian computational neuroscience community.
 
@@ -23,7 +23,7 @@ metaLinks:
 
 #### Travel Fellowships
 
-* The Australian Academy of Science has a list of research exchange programs, including research fellowships [here](https://www.science.org.au/opportunities/travel/grants-and-exchange). Similarly with [travelling fellowships](https://www.science.org.au/opportunities/travel/travelling-fellowships) to assist travel to and out of Australia to share scientific ideas.
+* The Australian Academy of Science lists its awards and opportunities, including research exchange programs, [here](https://science.org.au/our-work/awards-grants-programs/awards-opportunities). These include travelling fellowships to assist travel to and out of Australia to share scientific ideas, such as the [Selby Fellowship](https://science.org.au/our-work/awards-programs/awards-opportunities/selby-fellowship) and the [Rudi Lemberg Travelling Fellowship](https://science.org.au/our-work/awards-programs/awards-opportunities/rudi-lemberg-travelling-fellowship).
 
 ### Becoming a Group Leader
 

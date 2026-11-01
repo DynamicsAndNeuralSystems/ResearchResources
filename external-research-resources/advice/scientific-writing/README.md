@@ -36,7 +36,7 @@ Writing a good abstract is crucial—the vast majority of people are time-strapp
 * **The template:** A general template for structuring a scientific argument is to first explain the problem, then the solution, then the results, then the implications.
   * This can be applied across all scales of a paper: globally, within each section, and sometimes even across each paragraph.
   * A good paper will have a clear global objective/narrative, and each piece will be clearly set up and explained how it fits within/contributes to that global structure.
-* **Logical ordering.** Avoid going backwards, e.g., explaining what the result means and then describing the method method was applied and then afterwards explaining why. This is more confusing than explaining the problem to be solved first, and then motivating the method that appropriately addresses it.
+* **Logical ordering.** Avoid going backwards, e.g., explaining what the result means and then describing the method that was applied and then afterwards explaining why. This is more confusing than explaining the problem to be solved first, and then motivating the method that appropriately addresses it.
 * **Distinguish between the solution and its implementation**. Primarily we make a scientific case for the theory or method to be applied and why it's appropriate. Secondarily we explain how the method was implemented (e.g., the software package or specific numerical scheme used and its version), which can be included in _Methods_, but clearly separated from the scientific argument made on the basis of theory/methods.
 
 ## Style
@@ -54,7 +54,7 @@ Good scientific writing clearly documents a reasoning process. It's not a techni
 _Examples_:
 
 * Opening a section with "We first outline X".
-  * This text can be disorienting for a reader as it assumes that they knows why X is important and how it relates to the rest of the paper. Walk them through: the goal, why it's important, and then the design of an experiment to test that goal.
+  * This text can be disorienting for a reader as it assumes that they know why X is important and how it relates to the rest of the paper. Walk them through: the goal, why it's important, and then the design of an experiment to test that goal.
 
 #### Specify ambiguous terms/phrases
 
@@ -66,7 +66,7 @@ Keep an eye out for phrasing that implicitly asks the reader to fill in the gaps
 
 _Examples of potentially vague phrases_:
 
-* Most common case is the use of "this" or "these "
+* Most common case is the use of "this" or "these"
   * These terms/phrases are making the claim to the reader that they should know exactly what we mean by "this" without us specifying. Is it crystal clear in context? If not specify.
 * _Example text_: "As a solution, here we" \[solution to what?] _Fix:_ "As a solution to XX, here we"
 * _Example text_: "Examples include" \[examples of what?]. _Fix_: "Examples of XX include"
@@ -96,7 +96,7 @@ You can more easily make tables in LaTeX using this [online editor](https://www.
 
 #### Precision
 
-* Phrase ideas precisely, avoiding ambiguity. For example, "we conducted experiments on **various** simulated dynamical processes" (clearer as "we conducted experiments on three simulated processes: (i) …"). Look out for words like "various" or "around" or "like" of "few" or "small" or "low" or "high" and check whether they could be made more precise.
+* Phrase ideas precisely, avoiding ambiguity. For example, "we conducted experiments on **various** simulated dynamical processes" (clearer as "we conducted experiments on three simulated processes: (i) …"). Look out for words like "various" or "around" or "like" or "few" or "small" or "low" or "high" and check whether they could be made more precise.
 * Avoid words like "would" or "could" or "can" when talking about what was done. Instead, use "we did X" or "we applied Y" or "we used Z".
 * Think about the number of significant figures that you report your measurements to. Do not specify a quantity to greater precision than the order of magnitude of error in the measurement of that quantity.
 * If you have an error associated with a measurement, (3.421 +/- 0.5), this tells you explicitly where the precision of the measurement is irrelevant: 3.4 +/- 0.5.
@@ -118,7 +118,7 @@ You can more easily make tables in LaTeX using this [online editor](https://www.
 * Shorten "Figure" to "Fig.", "Figures" to "Figs" or "Figs.", and "Equation" to "Eq.", except never abbreviate the first word of a sentence.
 * Use "\~" to force-prevent a line break for references, as "Fig.\~\ref{fig:label}" and "Eq.\~\eqref{eqn:label}"
 * Write as "e.g.," and "i.e.," (with commas) not "eg" and "ie" (without commas). The abbreviation "cf." is used to mean "compare" and is not followed by a comma.
-* When using an N-dash, do _not_ use a space either side of it, e.g., "the results---which were surprising---were published in Nature", but _do_ use a space either side of an M-dash, e.g., "the results -- which were surprising -- were published in Nature".
+* When using an M-dash (`---` in LaTeX), do _not_ use a space either side of it, e.g., "the results---which were surprising---were published in Nature", but _do_ use a space either side of an N-dash (`--`), e.g., "the results -- which were surprising -- were published in Nature".
 * Don't hyphenate after an adverb ending in -ly, e.g., "a highly significant result" not "a highly-significant result".
 
 #### Citations

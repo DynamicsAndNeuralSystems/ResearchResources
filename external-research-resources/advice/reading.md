@@ -16,9 +16,9 @@ Reading is very important. Your goal through your PhD should be to develop good 
 
 #### The buzz
 
-* If your field has a strong Twitter(/X) scene, and they are disciplined enough to avoid distracting personal posts, this can be an excellent way to find topical literature in your field.
+* If your field has a strong Twitter/X scene, and they are disciplined enough to avoid distracting personal posts, this can be an excellent way to find topical literature in your field.
   * Here's an [article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) for how to get started on twitter as a scientist.
-* Other options also exist, such as [BlueSky](https://bluesky-web.org/), [Mastodon](https://joinmastodon.org/), and [LinkedIn](https://linkedin.com/).
+* Other options also exist, such as [Bluesky](https://bsky.app/), [Mastodon](https://joinmastodon.org/), and [LinkedIn](https://linkedin.com/).
 * Can be important to follow the right people, and to mute the right people.
 
 #### Direct from the journal's mouth: RSS feeds
@@ -33,7 +33,7 @@ Reading is very important. Your goal through your PhD should be to develop good 
 #### Reference managers
 
 * [Zotero](https://www.zotero.org/) is the best reference manager available and is free. Essential add-ons:
-  * [Better BibTex](https://retorque.re/zotero-better-bibtex/) (for workign with LaTeX, including automatically updating a corresponding .bib file for your full library), and
+  * [Better BibTex](https://retorque.re/zotero-better-bibtex/) (for working with LaTeX, including automatically updating a corresponding .bib file for your full library), and
   * [ZotFile](http://zotfile.com/) (for synchronizing attachments via cloud storage, and working with tablets).
 * [Paperpile](https://paperpile.com/) seems good, especially for those working with Google Docs.
 * [Mendeley](https://www.mendeley.com) is pretty poor.

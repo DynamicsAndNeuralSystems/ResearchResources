@@ -18,12 +18,12 @@ Dimensionality reduction:
 
 Multiple hypothesis testing:
 
-* [Brief explanation using R](https://www.stat.berkeley.edu/~mgoldman/Section0402.pdf)
+* [How does multiple testing correction work?](https://doi.org/10.1038/nbt1209-1135) A short primer by William Noble in _Nature Biotechnology_.
 
 Linear Algebra:
 
 * [Introduction to eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/).
-* A nice [twitter thread](https://twitter.com/TivadarDanka/status/1504751979729285122) on interpreting matrix factorizations, and associated [webpage](https://tivadardanka.com/blog/everything-about-matrix-factorizations) unrolling the tweets.
+* A nice [thread](https://x.com/TivadarDanka/status/1504751979729285122) by Tivadar Danka on interpreting matrix factorizations.
 
 Plotting:
 
@@ -42,5 +42,5 @@ Learning brain anatomy:
 
 #### In-person training
 
-* [Free training courses](https://informatics.sydney.edu.au/training/) run by Sydney Informatics Hub, NSW.
-* Graduate research students should attend Research Bazaar, [ResBaz](https://resbaz.github.io/resbaz2018/sydney/) for basic training in modern research methods.
+* [Free workshops and training](https://www.sydney.edu.au/research/facilities/sydney-informatics-hub/workshops-and-training.html) run by the Sydney Informatics Hub.
+* Graduate research students should attend the Research Bazaar (ResBaz) for basic training in modern research methods. It runs most years and rotates between Sydney universities (e.g., [ResBaz Sydney 2023](https://resbaz.github.io/resbaz2023syd/), hosted at Sydney Uni).

@@ -18,7 +18,6 @@ Nearby:
 
 * [Unilodge, Broadway](https://www.unilodge.com.au/unilodge-on-broadway-sydney)
 * [Campus Living Villages](https://www.mystudentvillage.com/university/university-of-sydney/)
-* [Urbanest](https://urbanest.com.au/sydney/)
 
 Cheaper options (including flat shares):
 
@@ -32,7 +31,7 @@ Cheaper options (including flat shares):
 
 #### Sydney in a day
 
-My favorite day starts from Town Hall (or even better for coffee lovers is to start earlier from Gumption), then you walk through Hyde Park, past the Domain to the NSW Art Gallery (have a look around in there if you like art), then walk through the Royal Botanic Gardens to Lady Macquarie’s chair (where you can look out onto the harbor/opera house), walk over to Circular Quay for a ferry bound for Manly (Terminal 3). Get a good spot on an outer deck and enjoy the ride over. From the terminal, walk towards Manly beach, grabbing fish and chips and eating on the beach. Have a swim, a couple beers at a beachside brewery, then ferry back for a drink at Circular Quay: Opera Bar for the views of the harbor, or a cocktail at Bulletin Place for cosy vibes. While around Circular Quay, you can also slot in some time at the Museum of Contemporary Art (MCA), Circular Quay, which for the cost of a coffee on the top floor, you can get some of the best elevated views of the harbor. If you're near Wynyard, I always enjoy a whiskey and apple at Uncle Ming's :)
+My favorite day starts from Town Hall (or even better for coffee lovers is to start earlier from Gumption), then you walk through Hyde Park, past the Domain to the Art Gallery of NSW (have a look around in there if you like art), then walk through the Royal Botanic Gardens to Mrs Macquarie’s Chair (where you can look out onto the harbor/opera house), walk over to Circular Quay for a ferry bound for Manly (Terminal 3). Get a good spot on an outer deck and enjoy the ride over. From the terminal, walk towards Manly beach, grabbing fish and chips and eating on the beach. Have a swim, a couple beers at a beachside brewery, then ferry back for a drink at Circular Quay: Opera Bar for the views of the harbor, or a cocktail at Bulletin Place for cosy vibes. While around Circular Quay, you can also slot in some time at the Museum of Contemporary Art (MCA), Circular Quay, which for the cost of a coffee on the top floor, you can get some of the best elevated views of the harbor. If you're near Wynyard, I always enjoy a whiskey and apple at Uncle Ming's :)
 
 #### Classic walks
 

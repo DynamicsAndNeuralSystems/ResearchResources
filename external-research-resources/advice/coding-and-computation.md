@@ -14,8 +14,8 @@ You must use version control when you code :relaxed:
 
 Version control is much easier with a graphical interface than in the command-line. This is the place to start—you can do everything you need, and visually see the whole history of your code base.
 
-* I recommend [GitKraken](https://www.gitkraken.com/), which provides free educational accounts.
-  * You can access for free: [https://help.gitkraken.com/gitkraken-client/gitkraken-edu-pack/#enabling-pro-for-students](https://help.gitkraken.com/gitkraken-client/gitkraken-edu-pack/#enabling-pro-for-students)
+* I recommend [GitKraken](https://www.gitkraken.com/), which is free for students.
+  * Students get GitKraken Pro free through the [GitHub Student Developer Pack](https://education.github.com/pack); see [GitKraken's student page](https://www.gitkraken.com/student-resources).
 * The free (for everyone) [SourceTree](https://www.sourcetreeapp.com) is also really good.
 * An alternative is [Github Desktop](https://desktop.github.com).
 
@@ -38,7 +38,7 @@ If you're up and using git locally, GitHub is a free (for education) service tha
 1. Make an [educational account](https://education.github.com/benefits) on GitHub, which provides you with unlimited public and private repositories.
 2. The first time you set up git, you should generate an ssh key to bypass having to type your username and password with every push to GitHub. Instructions are [here](https://help.github.com/articles/generating-an-ssh-key/). This means that you should use the ssh (not http) version of the Github repository reference: `git clone git@github.com:benfulcher/TestGitRepository.git`
 
-* You should also set up integration with a text editor for coding is perhaps the most useful. I recommend [VS Code](https://code.visualstudio.com/). [Atom](https://atom.io/) is an alternative you may also consider.
+* It's also very useful to set up git integration with your text editor. I recommend [VS Code](https://code.visualstudio.com/).
 
 **Workflow**
 
@@ -66,9 +66,8 @@ If you're really into it, building a Docker container for your project allows fu
 
 ### Working with a cluster
 
-* As well on your local computer, you should take the time to set up an [ssh-key](https://help.github.com/articles/generating-an-ssh-key/) for Github on the server, to avoid typing in your password each time.
 * You should have a nice interactive way of getting data/outputs to/from the server. The best is [Transmit](https://panic.com/transmit/); free alternatives are [Cyberduck](https://cyberduck.io/), or [FileZilla](https://filezilla-project.org/).
-* You should set up an [ssh key](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2) for each server you use regularly, to avoid typing in your password every time you connect.
+* You should set up an [ssh key](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2) for each server you use regularly, to avoid typing in your password every time you connect. If you use git on the server, also add a GitHub ssh key there, as described in the GitHub section above.
 * To avoid typing in the full username and servername every time you connect to your server, you set up an [ssh config file](https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/).
 * There are also fancy ways of running code (like in Julia) on the cluster via VS Code. E.g., if you set up a VSCode server on a compute node, then you can use the `remote-dev-over-tunnel` to connect from a local VSCode instance, or from the browser. Brendan Harris has kindly written up details [here](https://github.com/brendanjohnharris/physics-cluster/tree/main/code-physics).
 

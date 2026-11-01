@@ -19,7 +19,7 @@ Here is a useful image from [Itai Yanai](https://twitter.com/ItaiYanai) that hel
 ## Making presentations
 
 * [Keynote](https://www.apple.com/keynote/) is very nice to use, but is only for Mac, and doesn't allow version control.
-* [Powerpoint](https://office.live.com/start/powerpoint.aspx), you know it.
+* [PowerPoint](https://office.live.com/start/powerpoint.aspx), you know it.
 * [Deckset](https://www.deckset.com/) is a nice way to make presentations in markdown, but is only for Mac.
 * [Marp](https://marp.app) allows markdown-based presentations, enabling very quick slide preparation, easy embedding of code and hyperlinks, and version control.
 * If you wanna blow the socks off of your audience, this is a nice tool for making animated plots [https://extensions.blender.org/add-ons/scigraphs/](https://extensions.blender.org/add-ons/scigraphs/)

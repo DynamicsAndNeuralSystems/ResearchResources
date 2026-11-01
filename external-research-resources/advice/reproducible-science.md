@@ -12,18 +12,18 @@ Unfortunately, sometimes in science we are pulled in one direction that is bette
 
 1. Your work is marked as higher quality if it is reproducible. Quality matters in a scientific literature drowning in quantity. And a reputation for quality gets you noticed in your field.
 2. You drive more attention to your science as people come across your work through the other resources you are freely making available to the world (e.g., data and code).
-3. Others may build on your data/code, or use parts of it in their work, putting you a direct chain in aiding the progress of others (this is a great feeling).
+3. Others may build on your data/code, or use parts of it in their work, putting you in a direct chain aiding the progress of others (this is a great feeling).
 
 If you choose not to share your work, you are simply putting on a show:
 
-> An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures. — David Donaho ([reproducibleresearch.net](https://reproducibleresearch.net/))
+> An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures. — David Donoho ([reproducibleresearch.net](https://reproducibleresearch.net/))
 
 Academia is special in that it is funded with the ideal goal of being impartial with respect to commercial or other interests. As such, trust is crucial---if we don't trust each other, then the public should not trust us. And if the public doesn't trust its scientists (the people who have spent decades training to be impartial, honest, and trustworthy), then, well, humanity is in trouble in a world in which rhetoric beats reason. The first step is trusting yourself and adopting reproducible science gives you greater trust in what you produce.
 
 * The mindset of working reproducibly forces you to work to a much higher standard that pushes your science forward.
 * It also allows you to go back to your analyses later down the track and be able to very quickly understand what you did when you want to do something new based on your past work (or direct someone else to).
 
-There is a tendency to go all or nothing (in many causes, from veganism to dieting), but to make meaningful, lasting change we have to encourage small changes in the right direction. That is, any move in the direction towards open and reproducible science (the two go hand-in-hand) is a good way to build better habits and over time the practice will become second-nature. For example, it is optimal to move from a closed coding language like Matlab to python or R or Julia (where anyone can run your code without relying on a proprietary licence and all underlying code can be verified and improved over time by the community). But if you code in Matlab, making your code available and reproducible is a very valuable first step.
+There is a tendency to go all or nothing (in many contexts, from veganism to dieting), but to make meaningful, lasting change we have to encourage small changes in the right direction. That is, any move in the direction towards open and reproducible science (the two go hand-in-hand) is a good way to build better habits and over time the practice will become second-nature. For example, it is optimal to move from a closed coding language like Matlab to python or R or Julia (where anyone can run your code without relying on a proprietary licence and all underlying code can be verified and improved over time by the community). But if you code in Matlab, making your code available and reproducible is a very valuable first step.
 
 ### Talk
 
@@ -33,14 +33,12 @@ There is a tendency to go all or nothing (in many causes, from veganism to dieti
 
 On submission to a journal, you should make it part of your workflow to submit to a preprint server, such as [arXiv](https://arxiv.org/), [bioRxiv](https://www.biorxiv.org/), or on the [Open Science Framework](https://osf.io/). These give you a DOI for your work (a unique key that allows others to cite it), and allow more rapid and wide sharing of science, as there is no barrier to others reading your work. Make sure you update the text if there are any edits involved in the review process. This is important to ensure that these open versions of closed papers accurately reflect the journal version (in content if not formatting).
 
-For extra impact, you should cross-reference your work on [papers with code](https://portal.paperswithcode.com/).
-
 #### Unpaywall
 
 * Services like [unpaywall](https://unpaywall.org/) will automatically point people to these open versions of scientific articles.
 * It's a good idea to install the unpaywall browser add-on.
 * You need the [`biblatex-ext`](https://ctan.org/pkg/biblatex-ext) package and the extra functionality of the open access options: `biblatex-ext-oa.sty`.
-* Actually this looks like a cool way to add these OA stamps automatically to you bibliography using the [unpaywall](https://unpaywall.org/) API.
+* The [unpaywall](https://unpaywall.org/) API can be used to add these open-access stamps to your bibliography automatically.
 
 #### Displaying your contributions in your CV
 
@@ -54,7 +52,7 @@ Details are on the [coding-and-computation.md](coding-and-computation.md "mentio
 
 ### Registered report
 
-A registered report, where planned analysis steps are published and peer-reviewed prior to collecting the data and reporting the results, have the benefit of limiting researcher degrees of freedom and thus providing another level of transparency and reliability. Details are here [https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO)
+A registered report, where planned analysis steps are published and peer-reviewed prior to collecting the data and reporting the results, has the benefit of limiting researcher degrees of freedom and thus providing another level of transparency and reliability. Details are here [https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO](https://help.osf.io/article/330-welcome-to-registrations#Select-a-Registration-Template-1g4YO)
 
 ### Sharing data
 

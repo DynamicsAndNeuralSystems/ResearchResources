@@ -10,14 +10,14 @@ metaLinks:
 
 Modern scientists must use an electronic lab notebook. These [Ten Simple Rules for Lab Notebooks](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385) give a good account of why.
 
-Preferred option is [Notion](https://www.notion.so/desktop) (I use [Evernote](https://evernote.com/)); alternatives are [OneNote](https://www.onenote.com/) and [labarchives](https://www.labarchives.com/) (Uni provides free access) \[NB: labarchives is not recommended: is somewhat better for science (great versioning) but misses many other features].
+Preferred option is [Notion](https://www.notion.so/desktop) (I use [Evernote](https://evernote.com/)); alternatives are [OneNote](https://www.onenote.com/) and [labarchives](https://www.labarchives.com/) (Uni provides free access). LabArchives is not recommended: it has great versioning but misses many other features.
 
 Much of being a creative scientist is managing time, and part of making effective use of time is keeping a comprehensive log of experiments, results, research meetings, seminar notes, general vague thoughts about research, etc. Electronic notebooks keep this information searchable, and allow you to look over previous results and reproduce them.
 
 Some tips:
 
 * Date every entry.
-* Copy and paste outputs of your analysis or code to keep a record of your research outputs as you produce them. Easy as a screenshot (on Mac: cmd-cntrl-shift-4 and then paste cmd-v).
+* Copy and paste outputs of your analysis or code to keep a record of your research outputs as you produce them. Easy as a screenshot (on Mac: cmd-ctrl-shift-4 and then paste cmd-v).
 * Copy the code of the functions and their inputs that you use to generate your outputs, to allow you to reproduce what you've done. Works best with version control.
 * Evernote has a nice in-built tasking feature.
 
