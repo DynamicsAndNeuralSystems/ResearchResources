@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Research Resources
+  structure:
+    - type: space
+      key: space-1
+      title: Research Resources and Advice
+      path: external-research-resources
+      default: true
+      content:
+        directory: ./external-research-resources
